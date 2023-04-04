@@ -1,7 +1,7 @@
 # Containers in Docker
 ## What are Docker containers and what are they used for?
 
-Docker is a popular containerization platform that allows developers to build, deploy, and manage applications in a highly efficient manner. [Containers in Docker](https://old.reddit.com/user/f2ka07) are lightweight, standalone, and portable units that package software and all its dependencies into a single executable package. This allows developers to easily move their applications across different environments, such as from a developer's laptop to a testing environment to a production server.
+Docker is a popular [containerization](https://bit.ly/3DJdFoP+) platform that allows developers to build, deploy, and manage applications in a highly efficient manner. [Containers in Docker](https://old.reddit.com/user/f2ka07) are lightweight, standalone, and portable units that package software and all its dependencies into a single executable package. This allows developers to easily move their applications across different environments, such as from a developer's laptop to a testing environment to a production server.
 
 [Containers in Docker](https://teddit.privacytools.io/u/f2ka07) provide several benefits, including improved application portability, increased efficiency in resource utilization, and simplified deployment and management. Each container is isolated from other containers and from the host system, providing a secure and consistent environment for the application to run in. Containers in Docker can be easily scaled up or down, making it easy to adjust resources based on the application's needs.
 
